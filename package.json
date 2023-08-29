@@ -1,0 +1,22 @@
+{
+  "name": "api-work",
+  "version": "1.0.0",
+  "description": "this is an api text app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "18"
+  },
+  "author": "ritik",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "firebase-admin": "^11.10.1",
+    "firebase-functions": "^4.4.1",
+    "firebase-tools": "^12.5.2",
+    "nodemon": "^3.0.1"
+  }
+}
